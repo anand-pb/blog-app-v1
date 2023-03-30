@@ -1,2 +1,2 @@
 # blog-app-v1
-blog-app using html, css, javascript, bootstrap, node, express, ejs
+This is a blog-app made using html, css, javascript, bootstrap, node, express, ejs.
